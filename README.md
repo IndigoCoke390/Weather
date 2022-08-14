@@ -9,4 +9,5 @@ install:
 
 
 type "pip install -r requirements.txt" to download requirements
+
 type "python main.py" to start the project
